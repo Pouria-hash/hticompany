@@ -1,0 +1,26 @@
+.contact-container{
+    position: -webkit-sticky;
+    position: sticky;
+    top:auto;
+    background-color: #b91b1b;
+    color:#ffffff;   
+}
+.recent-posts-container{
+    position: sticky;
+    top:50px;
+}
+.recent-posts{
+    border-bottom: 1px solid #c5c6c7;
+}
+.recent-posts img{
+    height:60px;
+    width: 100%;
+    object-fit: cover;
+}
+.recent-posts p{
+    font-size: 13px;
+}
+.recent-posts p:hover{
+    color:rgb(248, 32, 32);
+    cursor: pointer;
+}

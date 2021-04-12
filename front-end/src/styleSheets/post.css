@@ -1,0 +1,19 @@
+.post-header {
+	height: 60vh;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	font-weight: 100;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.post-header h1 {
+	font-size: 40px;
+	text-align: center;
+	border-bottom: 1px solid white;
+	padding-bottom: 10px;
+}

@@ -1,0 +1,14 @@
+.header-post{
+    color:black;
+    text-decoration: none;
+    transition: 0.2s;
+}
+.header-post:hover{
+    color:rgb(214, 36, 36);
+    
+}
+.post-container img{
+    width:100%;
+    max-height: 400px;
+    object-fit: cover;
+}

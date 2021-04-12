@@ -1,0 +1,25 @@
+.header{
+    background-image: linear-gradient(#111111a9 , #111111a8) , url('https://res.cloudinary.com/dhz3fae76/image/upload/v1617192951/HT-Company/tyler-franta-iusJ25iYu1c-unsplash_zgahwg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    height:60vh ;
+}
+.header-content{
+    width: 50%;
+}
+.header-title{
+    padding: 10px;
+    border-bottom: 1px solid;
+}
+
+#contact-section{
+    background-image: linear-gradient(#111111a9 , #111111a8) , url('https://res.cloudinary.com/dhz3fae76/image/upload/v1617192134/HT-Company/photo-1587560699334-cc4ff634909a_zwjoh7.jpg');
+color:white;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+padding: 40px 20px;
+}

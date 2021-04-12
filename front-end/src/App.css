@@ -1,0 +1,104 @@
+
+@font-face{
+    font-family: 'Roboto';
+    src: local('Roboto'), url(./fonts/Roboto/Roboto-Regular.ttf) format('opentype');
+}
+@font-face{
+    font-family: 'BRoya';
+    src: local('BRoya'), url(./fonts/BRoya/BRoya.ttf) format('opentype');
+}
+@font-face{
+    font-family: 'IranianSans';
+    src: local('IranianSans'), url(./fonts/IranianSans/IranianSans.ttf) format('opentype');
+}
+@font-face{
+    font-family: 'vazir';
+    src: local('vazir'), url(./fonts/vazir-font/Vazir-Medium.ttf) format('opentype');
+}
+@font-face{
+    font-family: 'Shabnam';
+    src: local('Shabnam'), url(./fonts/Shabnam/Shabnam.ttf) format('opentype');
+}
+
+*{
+    font-family:'Shabnam' , serif ;
+    font-weight: 200;
+}
+
+#about-header{
+    background:linear-gradient(rgba(0, 0, 0, 0.123) , rgba(0, 0, 0, 0.158)) , url('https://res.cloudinary.com/dhz3fae76/image/upload/v1617437588/HT-Company/scott-blake-x-ghf9LjrVg-unsplash_kvp07f.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    text-align: center;
+}
+#about-header h1{
+    width: 50%;
+    padding: 5px ;
+    border-bottom: 2px solid #fff;
+    font-size: 45px;
+}
+#about-main{
+    margin: 50px 0;
+}
+#about-main h3{
+    color: #ff1818;
+    padding: 10px 0;
+    width: 70%;
+    margin-bottom: 30px;
+    border-bottom: 3px solid #646668;
+
+}
+
+#about-main p{
+    text-align: justify;
+    line-height: 1.8rem;
+    font-size: 13px;
+}
+#about-main img{
+    width:100%;
+    height: 500px;
+    object-fit: cover;
+}
+.footer{
+    background-color: #232425;
+    color:rgb(211, 211, 211);
+
+}
+#head{
+    color:#ff1818;
+}
+
+.footer li {
+    list-style-type: none;
+    transition: 0.2s;
+    font-size: 14px;
+    margin-bottom: 10px;
+    color:rgb(211, 211, 211);
+    text-decoration:none;
+}
+
+.footer-li:hover{
+    color:#ff1818;
+    cursor: pointer;
+}
+
+.footer ul li strong{
+color:rgb(206, 28, 28);
+}
+
+.footer h5{
+    color:white;
+    border-bottom: 1px solid rgb(179, 23, 23);
+    padding-bottom: 10px;
+}
+.footer h5:hover{
+    color:white;
+    
+}

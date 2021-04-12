@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec6a5824.chunk.css",
+    "main.js": "/static/js/main.efbf43e1.chunk.js",
+    "main.js.map": "/static/js/main.efbf43e1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1bf98233.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1bf98233.js.map",
+    "static/js/2.7eca20f2.chunk.js": "/static/js/2.7eca20f2.chunk.js",
+    "static/js/2.7eca20f2.chunk.js.map": "/static/js/2.7eca20f2.chunk.js.map",
+    "static/js/3.9288a102.chunk.js": "/static/js/3.9288a102.chunk.js",
+    "static/js/3.9288a102.chunk.js.map": "/static/js/3.9288a102.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ec6a5824.chunk.css.map": "/static/css/main.ec6a5824.chunk.css.map",
+    "static/js/2.7eca20f2.chunk.js.LICENSE.txt": "/static/js/2.7eca20f2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Vazir-Medium.36bc3e5e.ttf",
+    "static/media/home.css": "/static/media/shane-mclendon-EN1tF2EG-50-unsplash.68c42bbd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bf98233.js",
+    "static/js/2.7eca20f2.chunk.js",
+    "static/css/main.ec6a5824.chunk.css",
+    "static/js/main.efbf43e1.chunk.js"
+  ]
+}
